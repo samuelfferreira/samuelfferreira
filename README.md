@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+## I'm Samuel Ferreira
+- I live in 🇧🇷
 <!--
 **samuelfferreira/samuelfferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
